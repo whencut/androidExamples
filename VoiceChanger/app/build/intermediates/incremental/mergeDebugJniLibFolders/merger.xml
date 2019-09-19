@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\downloads\VoiceChanger\app\src\main\jniLibs"><file name="armeabi/libsoundstretch.so" path="D:\downloads\VoiceChanger\app\src\main\jniLibs\armeabi\libsoundstretch.so"/><file name="armeabi/libsoundtouch.so" path="D:\downloads\VoiceChanger\app\src\main\jniLibs\armeabi\libsoundtouch.so"/></source></dataSet><dataSet config="debug"><source path="D:\downloads\VoiceChanger\app\src\debug\jniLibs"/></dataSet></merger>

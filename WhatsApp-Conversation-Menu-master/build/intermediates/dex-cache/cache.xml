@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="19927793c6ba9c9b2c2e62808cf0bdf0ead4e973">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2d6f388ff56ae70e093c98c19c725e8b980ae2af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_059cde1891ec7dc3dc9861c52471006f1b3f7195\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_843b8a67f1b5ddd8dcb95cc4e7d5e3feacb006e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6baa224660c3e546f0c44d4633a6df7deb6a98ec">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a951c6a1b6aecb5e1e6585e4766311b1f359b2cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salimatti\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_2521c691bd052d4ce0d67c37f4d847206821e236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_d4188a54d6bd0d5d59a14e4c262271a83cc9d345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_fae1ea36b69442108fb8756a79ed15b5b2bd9426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_276ff96ac9f0cd21934d40e4a43e912c62069d41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_d948c327fd950bf76ff0cc7a9e557f655d39d37c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_297a567729dc93d5d63623b9d14a8fe7128ff129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.ozodrukh-CircularReveal-1.1.1_2ab0f8e37d46075a1c22e2f3f916e7bfa05fa08c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="V:\downloads\WhatsApp-Conversation-Menu-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_4a37a0dfc26574e345416433d61df0150c679043\classes.dex" />
+    </item>
+
+</items>

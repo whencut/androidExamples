@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="V:\downloads\tictactoe-android1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ccce9331d7b82fc29353baff4d6bb61ff8407ad0">
+        <dex dex="V:\downloads\tictactoe-android1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_705bec2f40fc4dade383f17b33020b3ff5d13046\classes.dex" />
+    </item>
+
+</items>

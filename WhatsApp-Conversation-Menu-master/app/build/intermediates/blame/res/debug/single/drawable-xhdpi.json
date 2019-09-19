@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\attach_location.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\attach_location.png"
+    },
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\attach_audio.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\attach_audio.png"
+    },
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\attach_gallery.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\attach_gallery.png"
+    },
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\attach_contact.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\attach_contact.png"
+    },
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\attach_camera.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\attach_camera.png"
+    },
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_attach.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_attach.png"
+    },
+    {
+        "merged": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\attach_document.png",
+        "source": "V:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\src\\main\\res\\drawable-xhdpi\\attach_document.png"
+    }
+]

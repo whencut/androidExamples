@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Padayatra</string>
+    <string name="api_key">AIzaSyCCtGSzmUIee_59bxNotY1NhkYgvDv6_qw</string>
+    <string name="map_api_key">AIzaSyA2LIBxtbTX17OxdU4yjy-lBk2NTM2qD5A</string>
+<!--AIzaSyCqcQv3WLMPcRjS5wqzUjpjJ9fSkDZtBEI-->
+    <!--<string name="exit_unit_id">ca-app-pub-8786880645737778/5887922648</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8786880645737778/7372307040</string>-->
+    <string name="exit_unit_id">ca-app-pub</string>
+    <string name="banner_ad_unit_id">ca-app-pub</string>
+    <string name="gcm_defaultSenderId">733456513805</string>
+    <string name="news">news</string>
+    <string name="hii_this_is_sample">hii this is sample</string>
+
+    <!-- Names -->
+    <string-array name="names">
+        <item>Pavan  </item>
+
+    </string-array>
+    <!-- districts -->
+    <string-array name="district">
+        <item>hydd</item>
+
+    </string-array>
+</resources>

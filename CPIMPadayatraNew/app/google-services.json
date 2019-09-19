@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733456513805",
+    "project_id": "default-demo-app-3bfd4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733456513805:android:cb6795838da89f7a",
+        "android_client_info": {
+          "package_name": "neoit.cpimpadayatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733456513805-djej6flskreea012vpqltr69l5omgrdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "neoit.cpimpadayatra",
+            "certificate_hash": "3398B0F60DF09C1B654BAF9A860D1AC66A47CAEA"
+          }
+        },
+        {
+          "client_id": "733456513805-gt004pph9i3aab7s2smmd285903p7sbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtGSzmUIee_59bxNotY1NhkYgvDv6_qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

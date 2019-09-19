@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fork_me.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\fork_me.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_file.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_file.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_brush.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_brush.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_colors.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_colors.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\marker.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\marker.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_trash.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_trash.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pencil.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\pencil.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_redo.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_redo.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pen.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\pen.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_undo.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_undo.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_save.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_more.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_more.png"
+    },
+    {
+        "merged": "F:\\d\\downloads\\Pretty-Painter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\brush.png",
+        "source": "F:\\d\\downloads\\Pretty-Painter\\app\\src\\main\\res\\drawable-mdpi\\brush.png"
+    }
+]

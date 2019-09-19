@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="neoit.cpimpadayatra">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <permission
+        android:name="neoit.cpimpadayatra.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="neoit.cpimpadayatra.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!--
+     The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+     Google Maps Android API v2, but you must specify either coarse or fine
+     location permissions for the 'MyLocation' functionality.
+    -->
+    <!-- Required to show current location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <!-- Required OpenGL ES 2.0. for Maps V2 -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+<uses-feature android:name="android.hardware.camera" android:required="true"/>
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".views.SplashsreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".views.PadayatraDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.VideosActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.YoutubeDemo"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".views.ImagesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.ViewPagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.EventsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.NewsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.NewsdetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.LeadersActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".views.SuggessionsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.SignupActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.ObjectivesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.PushdetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.AddMemberDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.MapsActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="neoit.cpimpadayatra.views.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <category android:name="okadee.myapplication" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="neoit.cpimpadayatra.views.GcmIntentService" />
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_api_key" />
+
+        <activity android:name=".views.VideosInCategoryActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceChanger</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mp3">转mp3</string>
+    <string name="s">播放速度</string>
+    <string name="a">频率</string>
+    <string name="b">节拍</string>
+    <string name="c">变音</string>
+    <string name="d">停止</string>
+    <string name="e">录音</string>
+
+</resources>

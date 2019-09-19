@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+          android:id="@+id/menu_color_scheme"
+          android:title="@string/menu_color_scheme"
+          android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                      android:id="@+id/menu_color_scheme_1"
+                      android:title="@string/menu_color_scheme_1" />
+
+                <item
+                      android:id="@+id/menu_color_scheme_2"
+                      android:title="@string/menu_color_scheme_2" />
+
+                <item
+                      android:id="@+id/menu_color_scheme_3"
+                      android:title="@string/menu_color_scheme_3" />
+
+            </group>
+        </menu>
+    </item>
+
+    <!--
+        Refresh action item which should be presented in the Action Bar's overflow area
+        by setting showAsAction='never'. This is so that users which are not using touch input
+        can still perform a refresh.
+    -->
+    <item
+          android:id="@+id/menu_refresh"
+          android:title="@string/menu_refresh"
+          android:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+
+</menu>

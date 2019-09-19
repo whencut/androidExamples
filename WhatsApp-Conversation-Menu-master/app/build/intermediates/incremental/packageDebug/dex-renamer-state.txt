@@ -1,0 +1,7 @@
+#Sun Oct 02 22:46:48 PDT 2016
+base.0=V\:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2d6f388ff56ae70e093c98c19c725e8b980ae2af
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=V\:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a951c6a1b6aecb5e1e6585e4766311b1f359b2cb\\classes.dex
+base.1=V\:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a951c6a1b6aecb5e1e6585e4766311b1f359b2cb
+file.0=V\:\\downloads\\WhatsApp-Conversation-Menu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2d6f388ff56ae70e093c98c19c725e8b980ae2af\\classes.dex

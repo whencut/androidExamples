@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\downloads\\android-pedometer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\downloads\\android-pedometer-master1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\downloads\\android-pedometer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line40.png",
+        "source": "D:\\downloads\\android-pedometer-master1\\app\\src\\main\\res\\drawable\\line40.png"
+    },
+    {
+        "merged": "D:\\downloads\\android-pedometer-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "D:\\downloads\\android-pedometer-master1\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    }
+]

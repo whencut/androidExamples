@@ -1,0 +1,226 @@
+[
+    {
+        "outputFile": "D:\\downloads\\VoiceChanger\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 32,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 32,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 52,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 49,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 32,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 32,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 32,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 32,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 32,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 32,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 32,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 32,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 52,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 36,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 36,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 34,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 34,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "D:\\downloads\\VoiceChanger\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965259396422",
+    "project_id": "analog-delight-146918"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965259396422:android:8bb3f50b69f96798",
+        "android_client_info": {
+          "package_name": "com.yapps.googlepluslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965259396422-pi031m4mee5dld00njm0la7oeu3jca3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yapps.googlepluslogin",
+            "certificate_hash": "6FCF0533D4861D256E0C8594B223E56D404FBC20"
+          }
+        },
+        {
+          "client_id": "965259396422-l53s5bk200bumm9hcjcmpt5dshdvn6fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9A9LF-clIdOqcRx-nu2VuNHAhuZaMEWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

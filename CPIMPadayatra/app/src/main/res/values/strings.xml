@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Padayatra</string>
+    <string name="api_key">AIzaSyCCtGSzmUIee_59bxNotY1NhkYgvDv6_qw</string>
+    <string name="map_api_key">AIzaSyBfpH7wadb6hnT4Ub6ehuGygrVrSR0gV7A</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="gcm_defaultSenderId">733456513805</string>
+    <string name="news">news</string>
+    <string name="hii_this_is_sample">hii this is sample</string>
+
+    <!-- Names -->
+    <string-array name="names">
+        <item>Pavan  </item>
+        <item>DayaSagar</item>
+        <item>Pavan </item>
+        <item>Maddy</item>
+        <item>Pavan</item>
+        <item>Nikhil</item>
+        <item>Pavan  </item>
+        <item>DayaSagar</item>
+        <item>Pavan </item>
+        <item>Maddy</item>
+        <item>Pavan</item>
+        <item>Nikhil</item>
+        <item>Pavan  </item>
+        <item>DayaSagar</item>
+        <item>Pavan </item>
+        <item>Maddy</item>
+        <item>Pavan</item>
+        <item>Nikhil</item>
+        <item>Pavan  </item>
+        <item>DayaSagar</item>
+        <item>Pavan </item>
+        <item>Maddy</item>
+        <item>Pavan</item>
+        <item>Nikhil</item>
+    </string-array>
+    <!-- districts -->
+    <string-array name="district">
+        <item>hydd</item>
+        <item>bbbffff</item>
+        <item>asdffg</item>
+        <item>dddghfff</item>
+        <item>eeefgfm</item>
+        <item>fffffdfgcvf</item>
+        <item>hydd</item>
+        <item>bbbffff</item>
+        <item>asdffg</item>
+        <item>dddghfff</item>
+        <item>eeefgfm</item>
+        <item>fffffdfgcvf</item>
+        <item>hydd</item>
+        <item>bbbffff</item>
+        <item>asdffg</item>
+        <item>dddghfff</item>
+        <item>eeefgfm</item>
+        <item>fffffdfgcvf</item>
+        <item>hydd</item>
+        <item>bbbffff</item>
+        <item>asdffg</item>
+        <item>dddghfff</item>
+        <item>eeefgfm</item>
+        <item>fffffdfgcvf</item>
+    </string-array>
+</resources>

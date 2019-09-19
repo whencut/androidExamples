@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:3:2-32
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:4:27-53
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:4:2-26
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:3:33-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:7:2-77
+	android:name
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:7:19-75
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:8:2-68
+	android:name
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:8:19-66
+application
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:10:2-27:16
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\vinay\.android\build-cache\3dadfbd4e2be58aef9b2ea676ff1f0eebbecd2e1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\vinay\.android\build-cache\753788abf417daea04619bd61eac2faca90391a1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\vinay\.android\build-cache\d4b21bcc0de0730352522f5304533373a47f4172\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\vinay\.android\build-cache\921e6ae2673d0ec7bac47053bd02b856c6a06424\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\vinay\.android\build-cache\b7e3ae3ec410cb6509b94284a7f0ce47639e4e15\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\vinay\.android\build-cache\ae4aef105c66477dacfcfd05d80970be67d7c014\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\vinay\.android\build-cache\3b6c388527bae4a2473325767847b861a8d066e1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\vinay\.android\build-cache\09a710c70dd49169f8d2cdbdf5ebd0a985cfced1\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\vinay\.android\build-cache\9772d91366946a8d9c6f5a0ae75960a373fcd9e4\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:10:45-77
+	android:hardwareAccelerated
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:11:6-40
+	android:icon
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:10:15-44
+	android:theme
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:12:6-64
+activity#org.sprite2d.apps.pp.Painter
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:14:3-21:14
+	android:screenOrientation
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:15:4-40
+	android:label
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:14:37-69
+	android:configChanges
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:16:4-58
+	android:name
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:14:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:17:4-20:20
+action#android.intent.action.MAIN
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:18:5-57
+	android:name
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:18:13-54
+category#android.intent.category.LAUNCHER
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:19:15-62
+activity#org.sprite2d.apps.pp.PainterPreferences
+ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:23:3-26:40
+	android:screenOrientation
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:24:4-40
+	android:hardwareAccelerated
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:25:7-42
+	android:configChanges
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:26:7-37
+	android:name
+		ADDED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml:23:13-47
+uses-sdk
+INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\vinay\.android\build-cache\3dadfbd4e2be58aef9b2ea676ff1f0eebbecd2e1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\vinay\.android\build-cache\753788abf417daea04619bd61eac2faca90391a1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\vinay\.android\build-cache\d4b21bcc0de0730352522f5304533373a47f4172\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\vinay\.android\build-cache\921e6ae2673d0ec7bac47053bd02b856c6a06424\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\vinay\.android\build-cache\b7e3ae3ec410cb6509b94284a7f0ce47639e4e15\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\vinay\.android\build-cache\ae4aef105c66477dacfcfd05d80970be67d7c014\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\vinay\.android\build-cache\3b6c388527bae4a2473325767847b861a8d066e1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\vinay\.android\build-cache\09a710c70dd49169f8d2cdbdf5ebd0a985cfced1\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\vinay\.android\build-cache\9772d91366946a8d9c6f5a0ae75960a373fcd9e4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\vinay\.android\build-cache\3dadfbd4e2be58aef9b2ea676ff1f0eebbecd2e1\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml
+		INJECTED from F:\d\downloads\Pretty-Painter\app\src\main\AndroidManifest.xml

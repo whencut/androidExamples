@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sat Mar 25 11:36:04 IST 2017
+1.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7cd564b595cd32f21f1d29ff14a6cc04460a662d
+4.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a9674552244d2dc53272e99b24f000ce9dc4a489\\classes.dex
+1.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7cd564b595cd32f21f1d29ff14a6cc04460a662d\\classes.dex
+4.set=DEX
+2.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+count=5
+1.set=DEX
+3.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a9674552244d2dc53272e99b24f000ce9dc4a489

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="settings">settings</string>
+    <string name="icon">icon</string>
+    <string name="stop">stop</string>
+    <string name="start">start</string>
+    <string name="broadcastintent">Broadcastintent</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+</resources>

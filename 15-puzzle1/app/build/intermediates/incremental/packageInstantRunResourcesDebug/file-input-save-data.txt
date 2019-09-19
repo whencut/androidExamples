@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Sat Mar 25 11:35:44 IST 2017
+1.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+2.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=D\:\\downloads\\15-puzzle1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc

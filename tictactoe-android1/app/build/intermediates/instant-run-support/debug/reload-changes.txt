@@ -1,0 +1,16 @@
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\GameActivity$EvaluateMovesTask$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\R$layout$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\R$integer$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\R$drawable$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\MainActivity$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\MainActivity$1$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\R$styleable$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\R$style$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\R$id$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\GameActivity$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\R$string$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\brown\android\tictac\MainActivity$2$override.class
+CHANGED,V:\downloads\tictactoe-android1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class

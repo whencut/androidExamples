@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="V:\downloads\SwipeRefreshListFragment\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3f2179b8be493791f54159b5fcb2e08f0570c96e">
+        <dex dex="V:\downloads\SwipeRefreshListFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b1c735a6d9f71dc6f0ceea38ae9a0acb2a28cc33\classes.dex" />
+    </item>
+
+</items>

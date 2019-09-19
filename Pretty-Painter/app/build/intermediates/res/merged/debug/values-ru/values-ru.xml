@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_opened_options">
+    	<item>Только из других папок</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="before_exit_options">
+    	<item>Предложить сохранить</item>
+        <item>Сохранить файл</item>
+        <item>Ничего не делать</item>
+    </string-array>
+    <string-array name="blur_types">
+        <item>Без размытия</item>
+        <item>Стандартное</item>
+        <item>Сплошное</item>
+        <item>Внешннее</item>
+        <item>Внутреннее</item>
+    </string-array>
+    <string-array name="volume_buttons_options">
+    	<item>Изменить размер кисти</item>
+        <item>Отменить/Вернуть</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about_text">Бесплатный графический редактор с открытым
+    исходным кодом под лицензией MIT</string>
+    <string name="aply_wallpaper">Установка обоев. Пожалуйста подождите...</string>
+    <string name="app_developers">Разрабочик:
+    \nАртур Бикмуллин (@devolonter)
+    \n\nСоразработчики:
+    \nConstantine Chartomatzis, Lioncash
+    \n\nЛокализация: 
+    \nОльга Бикмуллина (@AhNinniah)</string>
+    <string name="app_version">Версия: %1$s</string>
+    <string name="blur_radius">Размытие</string>
+    <string name="blur_style">Тип размытия</string>
+    <string name="blur_type_select">Выберите тип размытия</string>
+    <string name="brush_color">Цвет кисти</string>
+    <string name="brush_size">Размер кисти</string>
+    <string name="clear_bitmap_prompt">Вы действительно хотите очистить холст?</string>
+    <string name="clear_bitmap_prompt_title">Очистить</string>
+    <string name="color_pick">Выберите цвет</string>
+    <string name="copy_file_title">Копировать файлы</string>
+    <string name="exit_app_prompt">Сохранить изображение перед выходом?</string>
+    <string name="exit_app_prompt_title">Выход</string>
+    <string name="file_not_found">Файл не найден</string>
+    <string name="invalid_file">Неверный формат файла</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_brush">Кисть</string>
+    <string name="menu_clear">Очистить</string>
+    <string name="menu_file">Файл</string>
+    <string name="menu_open">Открыть</string>
+    <string name="menu_preferences">Настройки</string>
+    <string name="menu_redo">Вернуть</string>
+    <string name="menu_rotate">Повернуть</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_set_wallpaper">Установить как обои</string>
+    <string name="menu_share">Отправить</string>
+    <string name="menu_undo">Отменить</string>
+    <string name="more">Еще</string>
+    <string name="no">Нет</string>
+    <string name="open_prompt">Сохранить изображение перед открытием другого файла?</string>
+    <string name="open_prompt_title">Открыть с помощью</string>
+    <string name="preferences_about_category">О программе</string>
+    <string name="preferences_about_summary">Информация о программе</string>
+    <string name="preferences_about_title">О программе</string>
+    <string name="preferences_backup_category">Резервное копирование</string>
+    <string name="preferences_backup_openeded_file_summary">Копировать открываемые файлы в папку приложения</string>
+    <string name="preferences_backup_openeded_file_title">Копировать открываемые файлы</string>
+    <string name="preferences_before_exit_summary">Действие перед выходом из приложения</string>
+    <string name="preferences_before_exit_title">Действие перед выходом</string>
+    <string name="preferences_behavior_category">Поведение</string>
+    <string name="preferences_interface_category">Интерфейс</string>
+    <string name="preferences_language_summary">Установить язык приложения. Требуется перезапуск</string>
+    <string name="preferences_language_title">Язык</string>
+    <string name="preferences_last_file_summary">Открывать последний рабочий файл при старте приложения</string>
+    <string name="preferences_last_file_title">Открывать последний файл</string>
+    <string name="preferences_shake_summary">Очищать холст при тряске устройства</string>
+    <string name="preferences_shake_title">Потрясти чтобы очистить</string>
+    <string name="preferences_shortcuts_category">Горяие клавиши</string>
+    <string name="preferences_tooltips_summary">Показывать трюки и советы при старте приложения</string>
+    <string name="preferences_tooltips_title">Показывать подсказки</string>
+    <string name="preferences_volume_shortcuts_summary">Установить действие для кнопок громкости</string>
+    <string name="preferences_volume_shortcuts_title">Кнопки громкости</string>
+    <string name="saving_title">Сохранение</string>
+    <string name="saving_to_sd">Изображение сохраняется. Пожалуйста, подождите...</string>
+    <string name="sd_card_not_available">Карта памяти недоступна</string>
+    <string name="sd_card_not_writeable">Карта памяти недоступна для записи</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="select_language_title">Выберите язык</string>
+    <string name="share_image_title">Отправить с помощью</string>
+    <string name="share_prompt">Сохранить изображение перед отправкой?</string>
+    <string name="share_prompt_title">Отправить</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="wallpaper_error">Обои не установлены. Произошла ошибка</string>
+    <string name="wallpaper_setted">Обои успешно установлены</string>
+    <string name="wallpaper_title">Обои</string>
+    <string name="which_app">Выполнить с помощью</string>
+    <string name="yes">Да</string>
+    <style name="BrushProperties.Label">
+            <item name="android:layout_width">105dp</item>            
+            <item name="android:layout_height">fill_parent</item>
+            <item name="android:paddingRight">5dp</item>
+            <item name="android:gravity">center_vertical</item>
+            <item name="android:textColor">#000</item>
+        </style>
+</resources>
